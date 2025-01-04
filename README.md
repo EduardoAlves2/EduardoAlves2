@@ -1,6 +1,6 @@
 ## Olá 👋 Eu sou Eduardo Alves
 🌱 Pretendo me tornar um desenvolvedor web full stack<br>
-🔭 Atualmente estou aprendendo HTML, CSS e Java script
+🔭 Atualmente estou aprendendo HTML, CSS e Java script<br>
 💬 Eu falo inglês fluentemente e estou aprendendo coreano
 
 <!--
