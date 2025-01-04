@@ -1,6 +1,7 @@
 ## Olá 👋 Eu sou Eduardo Alves
 🌱 Pretendo me tornar um desenvolvedor web full stack<br>
 🔭 Atualmente estou aprendendo HTML, CSS e Java script
+💬 Eu falo inglês fluentemente e estou aprendendo coreano
 
 <!--
 **EduardoAlves2/EduardoAlves2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
